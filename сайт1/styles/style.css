@@ -1,0 +1,9 @@
+p, li, h1 {
+    color:rgb(12, 26, 118);
+    width: 900px;
+    border: 300px;
+}
+html {
+    font-size: 22px;
+    font-family: 'Alkatra', cursive;
+}
